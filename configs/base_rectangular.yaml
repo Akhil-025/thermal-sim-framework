@@ -1,0 +1,5 @@
+geometry:
+  type: rectangular_channel
+  length: 1.0
+  width: 0.02
+  height: 0.01
